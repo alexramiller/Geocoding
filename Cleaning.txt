@@ -1,0 +1,17 @@
+Data cleaning for addresses:
+
+###
+
+The most common text-based error in the excel file is the replacement of “th” or “nd” in numbered street-names
+The “th” or “nd” is replaced with:
+“
+â,,¢
+“â,,¢
+â€
+*
+The above symbols can be replaced with th when immediately following numerals
+
+###
+
+Many wrong addresses (at least in Pierce) are law offices located in Seattle, or at the same few addresses in Tacoma/Lakewood
+This could potentially be cleaned sytematically
