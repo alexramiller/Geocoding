@@ -15,3 +15,6 @@ The above symbols can be replaced with th when immediately following numerals
 
 Many wrong addresses (at least in Pierce) are law offices located in Seattle, or at the same few addresses in Tacoma/Lakewood
 This could potentially be cleaned sytematically
+
+Especially common Tacoma law office address:
+2201 north 20th street tacoma wa 98403
